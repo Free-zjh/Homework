@@ -24,71 +24,73 @@
 
     <div id="content" style="background-color:#EEEEEE;height:880px">
         <img src="background.jpg" height="880" width="100%">
-<!--        <h1 align="center">用户注册页面</h1>-->
-        <table bgcolor="#9370db" style="position: absolute;top: 200px;left: 700px">
-            <tr>
-                <td>
-                    用户名：
+        <form>
+            <table bgcolor="#9370db" style="position: absolute;top: 200px;left: 700px">
+                <tr>
+                    <td>
+                        用户名：
+                    </td>
+                    <td><input type="text" name="username" placeholder="请输入用户名"></td>
+                </tr>
+                <tr>
+                    <td>密码：</td>
+                    <td><input type="password" name="mima" placeholder="请输入密码"></td>
+                </tr>
+                <tr>
+                    <td>
+                        确定密码：
+                    </td>
+                    <td><input type="password" name="mima" >
+                    </td>
+                </tr>
+                <tr>
+                    <td>性别：</td>
+                    <td><input type="radio" name="sex" checked="checked">男<input type="radio" name="sex">女
+                    </td>
+                </tr>
+                <tr>
+                    <td>爱好：</td><td><input type="checkbox" name="hobby" >读书
+                    <input type="checkbox" name="hobby" >打游戏
+                    <input type="checkbox" name="hobby" >看动漫
+                    <input type="checkbox" name="hobby" >追剧
+                    <input type="checkbox" name="hobby" >其它
                 </td>
-                <td><input type="text" name="username" placeholder="请输入用户名"></td>
-            </tr>
-            <tr>
-                <td>密码：</td>
-                <td><input type="password" name="mima" placeholder="请输入密码"></td>
-            </tr>
-            <tr>
-                <td>
-                    确定密码：
-                </td>
-                <td><input type="password" name="mima" >
-                </td>
-            </tr>
-            <tr>
-                <td>性别：</td>
-                <td><input type="radio" name="sex" checked="checked">男<input type="radio" name="sex">女
-                </td>
-            </tr>
-            <tr>
-                <td>爱好：</td><td><input type="checkbox" name="hobby" >读书
-                <input type="checkbox" name="hobby" >打游戏
-                <input type="checkbox" name="hobby" >看动漫
-                <input type="checkbox" name="hobby" >追剧
-                <input type="checkbox" name="hobby" >其它
-            </td>
-            </tr>
-            <tr>
-                <td>地址：</td>
-                <td><select name="dizhi">
-                    <option>--请选择--</option>
-                    <option>福州</option>
-                    <option>莆田</option>
-                    <option>泉州</option>
-                    <option>厦门</option>
-                    <option>其它</option>
-                </select>
-                </td>
-            </tr>
-            <tr>
-                <td>个人简介：</td>
-                <td><textarea cols="35" rows="10">请介绍一下自己...</textarea>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">
-                    <input type="submit" value="提交">
-                    <input type="reset" value="重置">
-                </td>
-            </tr>
-            <!--            <tr>-->
-            <!--                <td height="20" colspan="2" align="center"><input-->
-            <!--                        type="reset" value="重置" class="login_button"-->
-            <!--                />   <input type="button" value="登录"-->
-            <!--                            class="login_button" onClick="loginClick()"-->
-            <!--                />  </td>-->
-            <!--            </tr>-->
+                </tr>
+                <tr>
+                    <td>地址：</td>
+                    <td><select name="dizhi">
+                        <option>--请选择--</option>
+                        <option>福州</option>
+                        <option>莆田</option>
+                        <option>泉州</option>
+                        <option>厦门</option>
+                        <option>其它</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>个人简介：</td>
+                    <td><textarea cols="35" rows="10">请介绍一下自己...</textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="提交">
+                        <input type="reset" value="重置">
+                    </td>
+                </tr>
+                <!--            <tr>-->
+                <!--                <td height="20" colspan="2" align="center"><input-->
+                <!--                        type="reset" value="重置" class="login_button"-->
+                <!--                />   <input type="button" value="登录"-->
+                <!--                            class="login_button" onClick="loginClick()"-->
+                <!--                />  </td>-->
+                <!--            </tr>-->
 
-        </table>
-        <p style="position: absolute;top: 780px;left: 750px;color: brown;font-size: 30px">更多精彩内容，尽在豆瓣</p>
+            </table>
+            <p style="position: absolute;top: 780px;left: 750px;color: brown;font-size: 30px">更多精彩内容，尽在豆瓣</p>
+
+        </form>
     </div>
 
     <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
