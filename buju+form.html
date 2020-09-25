@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta charset="UTF-8">
+    <title>布局设计</title> 
+</head>
+<body>
+<div id="container" style="width:100%;position: absolute" >
+
+    <div id="header" style="background-color:lawngreen;width: 100%;height: 100px;position: absolute">
+        <h1 style="margin-bottom:0;text-align: center">豆瓣电影</h1></div>
+
+    <div id="menu" style="background-color:palevioletred;height:800px;width:100px;position: absolute;top: 100px">
+        <a href="https://www.douban.com/" target="_blank" style="font-size: 20px;">豆瓣</a><br>
+        <a href="https://book.douban.com/" target="_blank" style="font-size: 20px;position: absolute;top: 50px">读书</a><br>
+        <a href="https://movie.douban.com/top250?start={page}&filter=" target="_blank" style="font-size: 20px;position: absolute;top: 100px">电影</a><br>
+        <a href="https://music.douban.com/" target="_blank" style="font-size: 20px;position: absolute;top: 150px">音乐</a><br>
+        <a href="https://read.douban.com/?dcs=top-nav&dcm=douban" target="_blank" style="font-size: 20px;position: absolute;top: 200px">阅读</a><br>
+        <a href="https://www.douban.com/location/fuzhou/" target="_blank" style="font-size: 20px;position: absolute;top: 250px">同城</a><br>
+        <a href="https://www.douban.com/group/explore" target="_blank" style="font-size: 20px;position: absolute;top: 300px">小组</a><br>
+        <a href="https://douban.fm/user-guide" target="_blank" style="font-size: 20px;position: absolute;top: 350px">FM</a><br>
+        <a href="https://m.douban.com/time/?dt_time_source=douban-web_top_nav" target="_blank" style="font-size: 20px;position: absolute;top: 400px">时间</a><br>
+        <a href="https://market.douban.com/?utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" style="font-size: 20px;position: absolute;top: 450px">豆品</a><br></div>
+
+    <div id="content" style="background-color:#EEEEEE;height:880px">
+        <img src="background.jpg" height="880" width="100%">
+<!--        <h1 align="center">用户注册页面</h1>-->
+        <table bgcolor="#9370db" style="position: absolute;top: 200px;left: 700px">
+            <tr>
+                <td>
+                    用户名：
+                </td>
+                <td><input type="text" name="username" placeholder="请输入用户名"></td>
+            </tr>
+            <tr>
+                <td>密码：</td>
+                <td><input type="password" name="mima" placeholder="请输入密码"></td>
+            </tr>
+            <tr>
+                <td>
+                    确定密码：
+                </td>
+                <td><input type="password" name="mima" >
+                </td>
+            </tr>
+            <tr>
+                <td>性别：</td>
+                <td><input type="radio" name="sex" checked="checked">男<input type="radio" name="sex">女
+                </td>
+            </tr>
+            <tr>
+                <td>爱好：</td><td><input type="checkbox" name="hobby" >读书
+                <input type="checkbox" name="hobby" >打游戏
+                <input type="checkbox" name="hobby" >看动漫
+                <input type="checkbox" name="hobby" >追剧
+                <input type="checkbox" name="hobby" >其它
+            </td>
+            </tr>
+            <tr>
+                <td>地址：</td>
+                <td><select name="dizhi">
+                    <option>--请选择--</option>
+                    <option>福州</option>
+                    <option>莆田</option>
+                    <option>泉州</option>
+                    <option>厦门</option>
+                    <option>其它</option>
+                </select>
+                </td>
+            </tr>
+            <tr>
+                <td>个人简介：</td>
+                <td><textarea cols="35" rows="10">请介绍一下自己...</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="提交">
+                    <input type="reset" value="重置">
+                </td>
+            </tr>
+            <!--            <tr>-->
+            <!--                <td height="20" colspan="2" align="center"><input-->
+            <!--                        type="reset" value="重置" class="login_button"-->
+            <!--                />   <input type="button" value="登录"-->
+            <!--                            class="login_button" onClick="loginClick()"-->
+            <!--                />  </td>-->
+            <!--            </tr>-->
+
+        </table>
+        <p style="position: absolute;top: 780px;left: 750px;color: brown;font-size: 30px">更多精彩内容，尽在豆瓣</p>
+    </div>
+
+    <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+        版权 © movie.douban.com</div>
+
+</div>
+
+</body>
+</html>
