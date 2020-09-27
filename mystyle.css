@@ -1,0 +1,26 @@
+h1
+{
+    font-family:"Times New Roman",Times,serif;
+    color: deeppink;
+    padding: 30px;
+}
+form
+{   background-color: greenyellow;
+    width: 800px;
+    border: 20px solid green;
+    padding: 5px 50px 25px 100px;
+    margin: 100px 430px;}
+
+.a1
+{
+    border: 1px solid darkorange;
+
+}
+.wenben{
+    border: 1px solid darkorange;
+}
+.button{
+    font-family:楷体
+
+
+}

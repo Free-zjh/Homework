@@ -7,8 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touxiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuoye2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buju+form.html" beforeDir="false" afterPath="$PROJECT_DIR$/buju+form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,8 +53,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.buju+form.html">
+  <component name="RunManager" selected="JavaScript Debug.zuoye2.html">
     <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/Form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -61,6 +66,9 @@
       <method v="2" />
     </configuration>
     <configuration name="buju.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/buju.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="zuoye2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
@@ -103,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.zuoye2.html" />
         <item itemvalue="JavaScript Debug.buju+form.html" />
         <item itemvalue="JavaScript Debug.buju.html" />
         <item itemvalue="JavaScript Debug.Form.html" />
@@ -145,7 +154,9 @@
       <workItem from="1600945160983" duration="164000" />
       <workItem from="1600945807951" duration="2023000" />
       <workItem from="1600959514804" duration="6767000" />
-      <workItem from="1601007817171" duration="3526000" />
+      <workItem from="1601007817171" duration="4005000" />
+      <workItem from="1601173753445" duration="4896000" />
+      <workItem from="1601184748875" duration="7527000" />
     </task>
     <servers />
   </component>
