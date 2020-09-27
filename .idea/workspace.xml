@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="用户注册">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buju+form.html" beforeDir="false" afterPath="$PROJECT_DIR$/buju+form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buju.html" beforeDir="false" afterPath="$PROJECT_DIR$/buju.html" afterDir="false" />
-    </list>
+    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,8 +158,16 @@
       <workItem from="1601173753445" duration="4896000" />
       <workItem from="1601184748875" duration="8788000" />
       <workItem from="1601212758998" duration="3038000" />
-      <workItem from="1601221194526" duration="282000" />
+      <workItem from="1601221194526" duration="1175000" />
     </task>
+    <task id="LOCAL-00001" summary="用户注册">
+      <created>1601221678863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601221678863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,20 +175,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="用户注册" />
+    <option name="LAST_COMMIT_MESSAGE" value="用户注册" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601199114413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601199114413" />
-    <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601221612385">
+    <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601221677777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601221612385" />
+    <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601221677777" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601221636007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601221636007" />
+    <state x="904" y="520" key="Gitee.ShareDialog" timestamp="1601222356608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="520" key="Gitee.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601222356608" />
     <state width="1292" height="269" key="GridCell.Tab.0.bottom" timestamp="1600945324818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -238,5 +247,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="252" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601221332220" />
+    <state x="646" y="353" key="Vcs.Push.Dialog.v2" timestamp="1601222157880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="353" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601222157880" />
   </component>
 </project>
