@@ -6,13 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="">
+    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="用户注册">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buju+form.html" beforeDir="false" afterPath="$PROJECT_DIR$/buju+form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buju.html" beforeDir="false" afterPath="$PROJECT_DIR$/buju.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/mystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuoye2.html" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1hxG76c9JmSqh1MPLunGDqs6NFI" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -55,6 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -163,7 +162,8 @@
       <workItem from="1601007817171" duration="4005000" />
       <workItem from="1601173753445" duration="4896000" />
       <workItem from="1601184748875" duration="8788000" />
-      <workItem from="1601212758998" duration="2805000" />
+      <workItem from="1601212758998" duration="3038000" />
+      <workItem from="1601221194526" duration="282000" />
     </task>
     <servers />
   </component>
@@ -178,10 +178,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601199114413" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600945242224">
+    <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601221612385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600945242224" />
+    <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601221612385" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601221636007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601221636007" />
     <state width="1292" height="269" key="GridCell.Tab.0.bottom" timestamp="1600945324818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -230,5 +234,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1292" height="269" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600945324818" />
+    <state x="555" y="252" key="SettingsEditor" timestamp="1601221332220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="252" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601221332220" />
   </component>
 </project>
