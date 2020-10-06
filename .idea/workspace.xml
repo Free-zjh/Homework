@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="" />
+    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/Helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/buju+form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/buju+form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/buju.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/buju.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,29 +52,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JavaScript之Date对象/index2.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\project1\web\zuoye2" />
+      <recent name="D:\ideaProject\project1\web\zuoye1" />
+      <recent name="D:\ideaProject\project1\web" />
       <recent name="D:\ideaProject\project1\web\image" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.zuoye2.html">
-    <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/Form.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.1.html">
+    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/WEB-INF/1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Helloworld.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/Helloworld.html" useBuiltInWebServerPort="true">
+    <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye1/Form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="buju+form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/buju+form.html" useBuiltInWebServerPort="true">
+    <configuration name="buju+form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye1/buju+form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="buju.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/buju.html" useBuiltInWebServerPort="true">
+    <configuration name="buju.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye1/buju.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="zuoye2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye2.html" useBuiltInWebServerPort="true">
+    <configuration name="zuoye2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/zuoye2/zuoye2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
@@ -111,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.1.html" />
         <item itemvalue="JavaScript Debug.zuoye2.html" />
         <item itemvalue="JavaScript Debug.buju.html" />
         <item itemvalue="JavaScript Debug.buju+form.html" />
         <item itemvalue="JavaScript Debug.Form.html" />
-        <item itemvalue="JavaScript Debug.Helloworld.html" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +167,10 @@
       <workItem from="1601173753445" duration="4896000" />
       <workItem from="1601184748875" duration="8788000" />
       <workItem from="1601212758998" duration="3038000" />
-      <workItem from="1601221194526" duration="1175000" />
+      <workItem from="1601221194526" duration="1918000" />
+      <workItem from="1601791680897" duration="615000" />
+      <workItem from="1601950124628" duration="583000" />
+      <workItem from="1601995375773" duration="457000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册">
       <created>1601221678863</created>
@@ -167,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601221678863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="用户注册">
+      <created>1601222497716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601222497716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,14 +202,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601199114413" />
-    <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601221677777">
+    <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601222496575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601221677777" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601221636007">
+    <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601222496575" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601950526885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601221636007" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601950526885" />
     <state x="904" y="520" key="Gitee.ShareDialog" timestamp="1601222356608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,9 +266,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="252" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601221332220" />
-    <state x="646" y="353" key="Vcs.Push.Dialog.v2" timestamp="1601222157880">
+    <state x="646" y="353" key="Vcs.Push.Dialog.v2" timestamp="1601222515765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="646" y="353" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601222157880" />
+    <state x="646" y="353" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601222515765" />
   </component>
 </project>
