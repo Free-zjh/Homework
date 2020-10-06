@@ -6,8 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="">
+    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="用户注册">
+      <change afterPath="$PROJECT_DIR$/web/zuoye3/CssFile/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/image/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/image/touxiang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye2/touxiang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye1/buju+form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/buju+form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye1/buju.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/buju.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye2/zuoye2.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye2/zuoye2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye3/zuoye3.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye3/zuoye3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,6 +62,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ideaProject\project1\web\zuoye2" />
+      <recent name="D:\ideaProject\project1\web\zuoye3\CssFile" />
       <recent name="D:\ideaProject\project1\web\zuoye1" />
       <recent name="D:\ideaProject\project1\web" />
       <recent name="D:\ideaProject\project1\web\image" />
@@ -166,7 +174,7 @@
       <workItem from="1601221194526" duration="1918000" />
       <workItem from="1601791680897" duration="615000" />
       <workItem from="1601950124628" duration="583000" />
-      <workItem from="1601995375773" duration="1957000" />
+      <workItem from="1601995375773" duration="3325000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册">
       <created>1601221678863</created>
@@ -194,10 +202,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="用户注册" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601199114413">
+    <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601999283673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601199114413" />
+    <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601999283673" />
     <state x="654" y="216" key="CommitChangelistDialog2" timestamp="1601998074369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
