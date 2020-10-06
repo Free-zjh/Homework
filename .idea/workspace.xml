@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="用户注册" />
+    <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="用户注册">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +166,7 @@
       <workItem from="1601221194526" duration="1918000" />
       <workItem from="1601791680897" duration="615000" />
       <workItem from="1601950124628" duration="583000" />
-      <workItem from="1601995375773" duration="1000000" />
+      <workItem from="1601995375773" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册">
       <created>1601221678863</created>
