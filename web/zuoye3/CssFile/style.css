@@ -129,16 +129,16 @@
     /*border: 2px solid #07cbc9;*/
     margin-top: 30px;
     margin-left: 49%;
+    margin-bottom: 20px;
 }
-.main .m-middle{
+.main .textarea{
     width: 510px;
     color: rgb(152,145,166);
-    margin-left: 37%;
-    margin-top: 30px;
+    margin: auto;
 }
 .main .middle .m-bottom{
     position: absolute;
-    left: 200px;
+    left: -60px;
     top: 950px;
     height: 435px;
     width: 100%;
@@ -360,8 +360,8 @@
     color: #ffffff;
     width: 90px;
     height: 40px;
-    margin-top: 40px;
-    margin-left: 40%;
+    margin-top: 20px;
+    margin-left: 35%;
 }
 /*鼠标悬停在按钮上的样式*/
 .main .middle2 .btn:hover{
@@ -376,7 +376,7 @@
 .main .bottom{
     width: 1400px;
     height: 200px;
-    margin-left: 350px;
+    margin-left: 100px;
 }
 .main .bottom .total{
     position: relative;
