@@ -7,10 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa546a-5340-416a-9df5-1129bc5a1dd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/image/headLogo/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/zuoye2/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/zuoye1/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye1/Form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/zuoye3/CssFile/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye3/CssFile/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/zuoye3/zuoye3.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye3/zuoye3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project1_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye2/touxiang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/zuoye2/zuoye2.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/zuoye2/zuoye2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +39,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +82,7 @@
       <recent name="D:\ideaProject\project1\web\image" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.zuoye2.html">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.50">
     <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project1/WEB-INF/1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -96,6 +114,39 @@
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50147" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -137,11 +188,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -190,7 +236,14 @@
       <workItem from="1603039823724" duration="2817000" />
       <workItem from="1603042695925" duration="2589000" />
       <workItem from="1603073130080" duration="2031000" />
-      <workItem from="1603079351753" duration="1418000" />
+      <workItem from="1603079351753" duration="1832000" />
+      <workItem from="1603094592746" duration="869000" />
+      <workItem from="1603175916474" duration="1112000" />
+      <workItem from="1603187927436" duration="620000" />
+      <workItem from="1603189880069" duration="448000" />
+      <workItem from="1604248879770" duration="623000" />
+      <workItem from="1604369092318" duration="29000" />
+      <workItem from="1604655482959" duration="2508000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册">
       <created>1601221678863</created>
@@ -241,6 +294,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604249095561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604249095561" />
     <state x="705" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601999283673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,10 +306,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="654" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602047624525" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603073153412">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603190121238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603073153412" />
+    <state x="526" y="192" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603176426962" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603190121238" />
     <state x="904" y="520" key="Gitee.ShareDialog" timestamp="1601222356608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -261,22 +319,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="823" y="409" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601997737142" />
-    <state width="1292" height="269" key="GridCell.Tab.0.bottom" timestamp="1600945324818">
+    <state width="1292" height="269" key="GridCell.Tab.0.bottom" timestamp="1604249510108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1292" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600945324818" />
-    <state width="1292" height="269" key="GridCell.Tab.0.center" timestamp="1600945324818">
+    <state width="1292" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604249510108" />
+    <state width="1292" height="269" key="GridCell.Tab.0.center" timestamp="1604249510108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1292" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600945324818" />
-    <state width="1292" height="269" key="GridCell.Tab.0.left" timestamp="1600945324818">
+    <state width="1292" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604249510108" />
+    <state width="1292" height="269" key="GridCell.Tab.0.left" timestamp="1604249510108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1292" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600945324818" />
-    <state width="1292" height="269" key="GridCell.Tab.0.right" timestamp="1600945324818">
+    <state width="1292" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604249510108" />
+    <state width="1292" height="269" key="GridCell.Tab.0.right" timestamp="1604249510108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1292" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600945324818" />
+    <state width="1292" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604249510108" />
     <state width="1292" height="269" key="GridCell.Tab.1.bottom" timestamp="1600945324818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
